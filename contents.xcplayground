@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Most Common Element in Array'/>
+        <page name='Palindrome Permutation'/>
+        <page name='Two Sum Problem'/>
+        <page name='Insertion Sort'/>
+        <page name='Advance tricks '/>
+        <page name='Fibonacci'/>
+    </pages>
+</playground>
